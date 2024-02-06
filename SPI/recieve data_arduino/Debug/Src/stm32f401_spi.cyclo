@@ -1,0 +1,13 @@
+../Src/stm32f401_spi.c:6:9:GetFlagStatus	2
+../Src/stm32f401_spi.c:31:6:SPI_clkCntrl	10
+../Src/stm32f401_spi.c:91:6:SPI_init	4
+../Src/stm32f401_spi.c:167:6:SPI_Deinit	5
+../Src/stm32f401_spi.c:190:6:SPI_Disable	1
+../Src/stm32f401_spi.c:212:6:SPI_SendData	5
+../Src/stm32f401_spi.c:260:6:SPI_Recieve	4
+../Src/stm32f401_spi.c:304:9:SPI_IRQconf	1
+../Src/stm32f401_spi.c:325:9:SPI_PriorityConf	1
+../Src/stm32f401_spi.c:346:6:SPI_IRQ_Handle	1
+../Src/stm32f401_spi.c:351:6:SPI_PeripheralControl	2
+../Src/stm32f401_spi.c:368:6:SPI_ssi_conf	2
+../Src/stm32f401_spi.c:384:6:SPI_ssoe_conf	2
