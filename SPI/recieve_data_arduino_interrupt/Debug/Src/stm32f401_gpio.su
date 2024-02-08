@@ -1,0 +1,12 @@
+../Src/stm32f401_gpio.c:18:6:GPIO_clkCntrl	16	static
+../Src/stm32f401_gpio.c:74:6:GPIO_init	32	static
+../Src/stm32f401_gpio.c:164:6:GPIO_Deinit	16	static
+../Src/stm32f401_gpio.c:197:9:GPIO_ReadPin	24	static
+../Src/stm32f401_gpio.c:216:10:GPIO_ReadPort	24	static
+../Src/stm32f401_gpio.c:237:6:GPIO_WritePin	16	static
+../Src/stm32f401_gpio.c:263:6:GPIO_WritePort	16	static
+../Src/stm32f401_gpio.c:280:6:GPIO_ToggPin	16	static
+../Src/stm32f401_gpio.c:298:7:GPIO_ToggPort	24	static
+../Src/stm32f401_gpio.c:321:6:GPIO_IRQconf	16	static
+../Src/stm32f401_gpio.c:373:6:GPIO_PriorityConf	24	static
+../Src/stm32f401_gpio.c:394:6:GPIO_IRQ_Handle	16	static

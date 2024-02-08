@@ -1,0 +1,10 @@
+../Src/spi_recievedata_it.c:10:6:delay	16	static
+../Src/spi_recievedata_it.c:14:9:SPI_VerifyResponse	16	static
+../Src/spi_recievedata_it.c:32:6:SPI2_GPIOInits	24	static
+../Src/spi_recievedata_it.c:62:6:SPI2_Inits	40	static
+../Src/spi_recievedata_it.c:78:6:Slave_GPIO_InterruptPinInit	24	static
+../Src/spi_recievedata_it.c:96:6:spi_print	32	static
+../Src/spi_recievedata_it.c:131:5:main	16	static
+../Src/spi_recievedata_it.c:189:6:SPI2_IRQHandler	8	static
+../Src/spi_recievedata_it.c:194:6:SPI_ApplicationEventCallback	16	static
+../Src/spi_recievedata_it.c:210:6:EXTI2_IRQHandler	8	static
